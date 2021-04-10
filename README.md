@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Guanying's GitHub stats](https://github-readme-stats.vercel.app/api?username=guanyingc)](https://github.com/guanyingc/github-readme-stats)
 
 <!--
 **guanyingc/guanyingc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
